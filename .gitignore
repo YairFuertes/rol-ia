@@ -6,3 +6,8 @@ desktop.ini
 # Temporales
 *.tmp
 *~
+
+# Dependencias y compilados
+node_modules/
+.next/
+dist/
